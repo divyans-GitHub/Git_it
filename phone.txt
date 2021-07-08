@@ -1,1 +1,3 @@
 phone
+touchScreen
+scratch-less gorilla glass
